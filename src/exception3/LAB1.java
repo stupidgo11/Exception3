@@ -6,8 +6,8 @@ public class LAB1 {
         //System.out.println(1/0);
         
         //B
-        //int[] list = new int [5];
-        //System.out.println(list[5]);
+        int[] list = new int [5];
+        System.out.println(list[5]);
         
         //C
         //String s = "abc";
